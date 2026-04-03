@@ -30,7 +30,7 @@ What it does: Visualizes the workflow of the system, like a flowchart.
 
 Focus: Decision points and the sequence of activities.
 
-** OOAD Concepts Applied**
+ OOAD Concepts Applied
 This project follows the core rules of Object-Oriented Design, including:
 
 Abstraction: Keeping things simple by focusing on what's important.
