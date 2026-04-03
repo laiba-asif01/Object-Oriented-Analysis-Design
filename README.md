@@ -3,6 +3,7 @@ A collection of Object-Oriented Analysis and Design (OOAD) models for various sy
 
 
 **About This Repository**
+
 This repository is a collection of UML (Unified Modeling Language) diagrams for various systems. It shows how to plan and design a software system before writing the actual code.
 
 The goal is to show a clear bridge between business requirements and technical design using Object-Oriented principles.
@@ -59,5 +60,5 @@ All diagrams are designed to represent system functionality and design concepts 
 - Lucidchart
 - StarUML
 
-**Purpose**
+**Purpose**:
 This repository is created for academic learning and practice of OOAD concepts.
