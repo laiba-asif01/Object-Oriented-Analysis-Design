@@ -1,5 +1,7 @@
 # Object-Oriented-Analysis-Design
 A collection of Object-Oriented Analysis and Design (OOAD) models for various systems. This repository contains professional UML diagrams including Use Case, Class, Sequence, and Activity diagrams, showcasing structured system design approach.
+
+
 **About This Repository**
 This repository is a collection of UML (Unified Modeling Language) diagrams for various systems. It shows how to plan and design a software system before writing the actual code.
 
@@ -28,7 +30,7 @@ What it does: Visualizes the workflow of the system, like a flowchart.
 
 Focus: Decision points and the sequence of activities.
 
- OOAD Concepts Applied
+** OOAD Concepts Applied**
 This project follows the core rules of Object-Oriented Design, including:
 
 Abstraction: Keeping things simple by focusing on what's important.
@@ -40,13 +42,13 @@ Inheritance: Reusing code to make the system efficient.
 Scalability: Designing a system that can grow easily in the future.
 All diagrams are designed to represent system functionality and design concepts including interactions, structure, and workflows.
 
-** Diagrams Included**
+**Diagrams Included**
 - Sequence Diagrams
 - Class Diagrams
 - Activity Diagrams
 - Use Case Diagrams
 
- 📁 Folder Structure
+ **📁 Folder Structure**
 - Sequence-Diagrams/
 - Class-Diagrams/
 - Activity-Diagrams/
@@ -57,5 +59,5 @@ All diagrams are designed to represent system functionality and design concepts 
 - Lucidchart
 - StarUML
 
-** Purpose**
+**Purpose**
 This repository is created for academic learning and practice of OOAD concepts.
