@@ -9,6 +9,7 @@ This repository is a collection of UML (Unified Modeling Language) diagrams for 
 The goal is to show a clear bridge between business requirements and technical design using Object-Oriented principles.
 
  **Key Diagrams Included**
+ 
 In this repository, you will find four main types of diagrams for each system:
 
 **1. Use Case Diagram**
