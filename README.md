@@ -52,7 +52,6 @@ All diagrams are designed to represent system functionality and design concepts 
 **Diagrams Included**
 - Sequence Diagrams
 - Class Diagrams
-- Activity Diagrams
 - Use Case Diagrams
 
  **📁 Folder Structure**
