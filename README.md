@@ -58,7 +58,6 @@ All diagrams are designed to represent system functionality and design concepts 
  **📁 Folder Structure**
 - Sequence-Diagrams/
 - Class-Diagrams/
-- Activity-Diagrams/
 - Usecase-Diagrams/
 
  **Tools Used**
